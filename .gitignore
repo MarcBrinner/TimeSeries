@@ -13,7 +13,9 @@ pip-selfcheck.json
 .stylegan2-cache
 API_Keys.txt
 .idea
-data
+data/TIME_SERIES_DAILY_ADJUSTED/*
+data/TIME_SERIES_INTRADAY/*
+data/TIME_SERIES_INTRADAY_EXTENDED/*
 Papers
 tensorboard
 images
