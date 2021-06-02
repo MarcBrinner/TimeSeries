@@ -1,0 +1,5 @@
+0-2: different K-Means things, some really good.
+3: K-Means clusters (30) with normalization, the parameters are only trained for 4 generations to test.
+4: SOM (25) with good performance (~40%, but better for 7-14 (about 46%)), even better for BFGS params: 80% for 3
+5: SOM (36), no good performance but centers can be used.
+6: SOM (64) centers for NN
